@@ -3,10 +3,10 @@ import React from 'react';
 function Menu() {
     return (
         <nav className="w-full flex justify-center bg-opacity-0 px-2 py-2.5 rounded z-50">
-            <div className="container flex flex-col flex-wrap items-center justify-between fixed h-[calc(100vh-4vh)] md:h-auto md:flex-row w-full">
+            <div className="container flex flex-col flex-wrap items-center justify-between fixed h-[calc(100vh-4vh)] md:h-auto md:flex-row w-full animate-wipe-enter">
                 <a href="#home" className="flex items-center ml-2">
                     <img src={require("../images/logo.png")} className="h-9 mr-3" alt="Logo of my initials BRR where they look icy" />
-                    <span className="self-center text-xl font-semibold whitespace-nowrap text-white">Brandon Roy Portfolio</span>
+                    <span className="hover:animate-pulse self-center text-xl font-semibold whitespace-nowrap text-white">Brandon Roy Portfolio</span>
                 </a>
                 <div>
                     <ul className="flex flex-row mt-0 text-sm font-medium">
