@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.45145ff0.css",
-    "main.js": "/portfolio/static/js/main.59007155.js",
+    "main.css": "/portfolio/static/css/main.c0b29281.css",
+    "main.js": "/portfolio/static/js/main.5f776419.js",
     "static/js/787.0cae94b9.chunk.js": "/portfolio/static/js/787.0cae94b9.chunk.js",
     "static/media/me.jpg": "/portfolio/static/media/me.a2f77cb833ec5a8cf01f.jpg",
     "static/media/websites.png": "/portfolio/static/media/websites.0d6f114fcd15da3d0468.png",
@@ -9,12 +9,12 @@
     "static/media/SafetyNet.png": "/portfolio/static/media/SafetyNet.78b6a3b21a4ed82747d2.png",
     "static/media/logo.png": "/portfolio/static/media/logo.476813744b4c0dc58b53.png",
     "index.html": "/portfolio/index.html",
-    "main.45145ff0.css.map": "/portfolio/static/css/main.45145ff0.css.map",
-    "main.59007155.js.map": "/portfolio/static/js/main.59007155.js.map",
+    "main.c0b29281.css.map": "/portfolio/static/css/main.c0b29281.css.map",
+    "main.5f776419.js.map": "/portfolio/static/js/main.5f776419.js.map",
     "787.0cae94b9.chunk.js.map": "/portfolio/static/js/787.0cae94b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45145ff0.css",
-    "static/js/main.59007155.js"
+    "static/css/main.c0b29281.css",
+    "static/js/main.5f776419.js"
   ]
 }
