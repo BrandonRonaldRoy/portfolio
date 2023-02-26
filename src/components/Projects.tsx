@@ -12,7 +12,7 @@ function Projects() {
         rows: 3,
     }
     return (
-        <div className="w-full h-fit text-white">
+        <div className="w-full h-fit mb-36 text-white">
             <div className="flex justify-center">
                 <h1 className="mb-20 mt-10 text-xl sm:text-4xl font-semibold">Projects</h1>
             </div>
