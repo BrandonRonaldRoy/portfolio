@@ -2,7 +2,7 @@ import React from 'react';
 import Menu from './components/Menu';
 import About from './components/About';
 import Projects from './components/Projects';
-import Testimonials from './components/Testimonials';
+import Resume from './components/Resume';
 import { SocialIcon } from 'react-social-icons';
 import { useInView } from 'react-intersection-observer';
 
@@ -27,16 +27,16 @@ function App() {
         </div>
       </div>
       <span id='about'></span>
-      <div className='h-fit lg:h-screen'>
+      <div className='h-fit'>
         <About></About>
       </div>
       <span id='projects'></span>
-      <div className='h-screen'>
+      <div className='h-fit'>
         <Projects></Projects>
       </div>
-      <span id='testimonials'></span>
+      <span id='resume'></span>
       <div className='h-screen'>
-        <Testimonials></Testimonials>
+        <Resume></Resume>
       </div>
     </div>
   );

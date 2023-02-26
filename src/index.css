@@ -4,7 +4,25 @@
 @tailwind utilities;
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web');
 
+
 body {
     background-color: #012a48;
     font-family: 'Titillium-Web', sans-serif;
+}
+
+.slick-dots li button:before {
+    /* position: relative; */
+    color: white !important;
+    /* font-size:larger !important; */
+    font-size: 20px;
+    line-height: 20px;
+    z-index: 1 !important;
+}
+
+.slick-slide > div {
+    display: grid;
+    place-items: center;
+    margin-top: 50px;
+    margin: auto;
+    padding: 0px;
 }
