@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c0b29281.css",
-    "main.js": "/portfolio/static/js/main.5f776419.js",
+    "main.css": "/portfolio/static/css/main.407172e0.css",
+    "main.js": "/portfolio/static/js/main.6f2334db.js",
     "static/js/787.0cae94b9.chunk.js": "/portfolio/static/js/787.0cae94b9.chunk.js",
     "static/media/me.jpg": "/portfolio/static/media/me.a2f77cb833ec5a8cf01f.jpg",
     "static/media/websites.png": "/portfolio/static/media/websites.0d6f114fcd15da3d0468.png",
+    "static/media/vacuum.png": "/portfolio/static/media/vacuum.2985e188bb78b713cb02.png",
+    "static/media/Resume.png": "/portfolio/static/media/Resume.3cb9dc88a36eebb9dd40.png",
     "static/media/landingPic.jpg": "/portfolio/static/media/landingPic.ddf0945e0c839bd25500.jpg",
     "static/media/SafetyNet.png": "/portfolio/static/media/SafetyNet.78b6a3b21a4ed82747d2.png",
     "static/media/logo.png": "/portfolio/static/media/logo.476813744b4c0dc58b53.png",
     "index.html": "/portfolio/index.html",
-    "main.c0b29281.css.map": "/portfolio/static/css/main.c0b29281.css.map",
-    "main.5f776419.js.map": "/portfolio/static/js/main.5f776419.js.map",
+    "main.407172e0.css.map": "/portfolio/static/css/main.407172e0.css.map",
+    "main.6f2334db.js.map": "/portfolio/static/js/main.6f2334db.js.map",
     "787.0cae94b9.chunk.js.map": "/portfolio/static/js/787.0cae94b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0b29281.css",
-    "static/js/main.5f776419.js"
+    "static/css/main.407172e0.css",
+    "static/js/main.6f2334db.js"
   ]
 }
